@@ -7,7 +7,6 @@
 
         1:*****  
 
-
         2:**  
         
         3:**  
@@ -21,5 +20,5 @@
   Escribir un programa utilizando C# que encuentre los dos elementos del arreglo que sumandos dan 10. Se deben imprimir ambos números cómo resultado separados por un espacio(en orden en que aparecen en el arreglo).
   Por ejemplo, para el arreglo{1,3,4,2,7,0} el resultado seria:  
    3 7  
-   
+
   
