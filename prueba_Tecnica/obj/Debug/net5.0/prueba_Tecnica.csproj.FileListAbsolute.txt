@@ -1,0 +1,16 @@
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/bin/Debug/net5.0/prueba_Tecnica
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/bin/Debug/net5.0/prueba_Tecnica.deps.json
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/bin/Debug/net5.0/prueba_Tecnica.runtimeconfig.json
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/bin/Debug/net5.0/prueba_Tecnica.runtimeconfig.dev.json
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/bin/Debug/net5.0/prueba_Tecnica.dll
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/bin/Debug/net5.0/ref/prueba_Tecnica.dll
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/bin/Debug/net5.0/prueba_Tecnica.pdb
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/obj/Debug/net5.0/prueba_Tecnica.csproj.AssemblyReference.cache
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/obj/Debug/net5.0/prueba_Tecnica.GeneratedMSBuildEditorConfig.editorconfig
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/obj/Debug/net5.0/prueba_Tecnica.AssemblyInfoInputs.cache
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/obj/Debug/net5.0/prueba_Tecnica.AssemblyInfo.cs
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/obj/Debug/net5.0/prueba_Tecnica.csproj.CoreCompileInputs.cache
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/obj/Debug/net5.0/prueba_Tecnica.dll
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/obj/Debug/net5.0/ref/prueba_Tecnica.dll
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/obj/Debug/net5.0/prueba_Tecnica.pdb
+/home/ariel-perez/Escritorio/Ejercicios de POO en python/prueba_Tecnica/prueba_Tecnica/obj/Debug/net5.0/prueba_Tecnica.genruntimeconfig.cache
